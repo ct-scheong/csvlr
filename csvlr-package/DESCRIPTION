@@ -1,0 +1,11 @@
+Package: csvlr
+Type: Package
+Title: Batch process CSV files for data wrangling
+Version: 1.0
+Date: 2015-06-05
+Authors@R: person("Ka Ieng Shery","Cheong",email = "datatista[at]gmail[dot]com", role=c("aut","cre"))
+Maintainer: Ka Ieng Shery Cheong <datatista@gmail.com>
+Depends: R (>= 3.1.0)
+Description: This package pre-processes multiple CSV/txt files for data wrangling
+License: MIT + file LICENSE
+LazyData: true
